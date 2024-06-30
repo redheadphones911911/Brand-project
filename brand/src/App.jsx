@@ -6,7 +6,6 @@ function App() {
 
   return (
 <div>
-  <img/>
   <nav>
 <ul>
   <li href='#'>Menu</li>
