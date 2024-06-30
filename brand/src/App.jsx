@@ -5,7 +5,7 @@ function App() {
 
 
   return (
-<div>
+<div className='container'>
   <nav>
 <ul>
   <li href='#'>Menu</li>
