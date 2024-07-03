@@ -1,4 +1,4 @@
-const navigationM = () => {
+function navigationM() {
     return(
         <div className="container">
           <img/>
