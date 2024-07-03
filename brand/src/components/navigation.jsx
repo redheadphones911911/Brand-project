@@ -1,4 +1,4 @@
-export function navigationM() {
+const Navigation = () => {
     return(
         <div className="container">
           <img/>
@@ -14,3 +14,4 @@ export function navigationM() {
         </div>
     )
 }
+ export default Navigation;
