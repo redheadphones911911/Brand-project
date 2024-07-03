@@ -7,12 +7,12 @@ function App() {
   return (
 <div className='container'>
   <img/>
-  <nav>
+  <nav className='navbar'>
 <ul>
-  <li href='#'>Menu</li>
-  <li href='#'>Location</li>
-  <li href='#'>About</li>
-  <li href=''>Contact Us</li>
+  <li><a href='#'>Menu</a></li>
+  <li><a href='#'>Location</a></li>
+  <li><a href='#'>About</a></li>
+  <li> <a href=''>Contact Us</a></li>
 </ul>
   </nav>
   <button>Login</button>

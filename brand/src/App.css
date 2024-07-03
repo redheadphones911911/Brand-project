@@ -3,3 +3,9 @@
   justify-content: space-between;
   flex-direction: row;
 }
+.navbar ul li{
+  list-style: none;
+}
+.navbar{
+  display: flex;
+}
