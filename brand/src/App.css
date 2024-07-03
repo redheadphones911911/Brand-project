@@ -6,6 +6,8 @@
 .navbar ul li{
   list-style: none;
 }
-.navbar{
+.navbar ul{
   display: flex;
+  gap: 20px;
+
 }

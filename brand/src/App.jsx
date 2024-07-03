@@ -9,10 +9,10 @@ function App() {
   <img/>
   <nav className='navbar'>
 <ul>
-  <li><a href='#'>Menu</a></li>
-  <li><a href='#'>Location</a></li>
-  <li><a href='#'>About</a></li>
-  <li> <a href=''>Contact Us</a></li>
+  <li href='#'>Menu</li>
+  <li href='#'>Location</li>
+  <li href='#'>About</li>
+  <li href='#'>Contact Us</li>
 </ul>
   </nav>
   <button>Login</button>
