@@ -1,4 +1,4 @@
-const navigation = () => {
+const navigationM = () => {
     return(
         <div className="container">
           <img/>
@@ -14,4 +14,4 @@ const navigation = () => {
         </div>
     )
 }
-export default navigation
+export default navigationM
