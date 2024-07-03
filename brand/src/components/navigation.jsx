@@ -14,4 +14,4 @@ const navigation = () => {
         </div>
     )
 }
-export default navigation;
+export default navigation
