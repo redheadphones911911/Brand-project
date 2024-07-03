@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import navigationM from './components/navigation'
+import {navigationM} from './components/navigation.jsx'
 
 function App() {
 

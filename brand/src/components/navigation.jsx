@@ -1,4 +1,4 @@
-function navigationM() {
+export function navigationM() {
     return(
         <div className="container">
           <img/>
@@ -14,4 +14,3 @@ function navigationM() {
         </div>
     )
 }
-export default navigationM
